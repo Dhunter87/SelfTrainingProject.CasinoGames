@@ -1,0 +1,22 @@
+/Users/danielhunter/Projects/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames/bin/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.deps.json
+/Users/danielhunter/Projects/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames/bin/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.runtimeconfig.json
+/Users/danielhunter/Projects/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames/bin/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.runtimeconfig.dev.json
+/Users/danielhunter/Projects/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames/bin/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.dll
+/Users/danielhunter/Projects/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames/bin/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.pdb
+/Users/danielhunter/Projects/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames/obj/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.csprojResolveAssemblyReference.cache
+/Users/danielhunter/Projects/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames/obj/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.csproj.CoreCompileInputs.cache
+/Users/danielhunter/Projects/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames/obj/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.AssemblyInfoInputs.cache
+/Users/danielhunter/Projects/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames/obj/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.AssemblyInfo.cs
+/Users/danielhunter/Projects/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames/obj/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.dll
+/Users/danielhunter/Projects/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames/obj/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.pdb
+/Users/danielhunter/Documents/GitHub/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames copy/SelfTrainingProject.CasinoGames/bin/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.deps.json
+/Users/danielhunter/Documents/GitHub/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames copy/SelfTrainingProject.CasinoGames/bin/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.runtimeconfig.json
+/Users/danielhunter/Documents/GitHub/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames copy/SelfTrainingProject.CasinoGames/bin/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.runtimeconfig.dev.json
+/Users/danielhunter/Documents/GitHub/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames copy/SelfTrainingProject.CasinoGames/bin/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.dll
+/Users/danielhunter/Documents/GitHub/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames copy/SelfTrainingProject.CasinoGames/bin/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.pdb
+/Users/danielhunter/Documents/GitHub/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames copy/SelfTrainingProject.CasinoGames/obj/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.csprojResolveAssemblyReference.cache
+/Users/danielhunter/Documents/GitHub/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames copy/SelfTrainingProject.CasinoGames/obj/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.csproj.CoreCompileInputs.cache
+/Users/danielhunter/Documents/GitHub/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames copy/SelfTrainingProject.CasinoGames/obj/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.AssemblyInfoInputs.cache
+/Users/danielhunter/Documents/GitHub/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames copy/SelfTrainingProject.CasinoGames/obj/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.AssemblyInfo.cs
+/Users/danielhunter/Documents/GitHub/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames copy/SelfTrainingProject.CasinoGames/obj/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.dll
+/Users/danielhunter/Documents/GitHub/SelfTrainingProject.CasinoGames/SelfTrainingProject.CasinoGames copy/SelfTrainingProject.CasinoGames/obj/Debug/netcoreapp2.1/SelfTrainingProject.CasinoGames.pdb
