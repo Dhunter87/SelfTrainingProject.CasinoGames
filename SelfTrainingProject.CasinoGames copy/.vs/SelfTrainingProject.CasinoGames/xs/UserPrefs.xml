@@ -1,0 +1,27 @@
+﻿<Properties StartupConfiguration="{D6AAE02E-E466-4D17-B00C-62558A0FF7ED}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SelfTrainingProject.CasinoGames/BlackJackGame.cs">
+    <Files>
+      <File FileName="SelfTrainingProject.CasinoGames/Program.cs" Line="1" Column="1" />
+      <File FileName="SelfTrainingProject.CasinoGames/Menu.cs" Line="1" Column="1" />
+      <File FileName="SelfTrainingProject.CasinoGames/BlackJackGame.cs" Line="91" Column="1" />
+      <File FileName="SelfTrainingProject.CasinoGames/BlackJack.cs" Line="1" Column="1" />
+      <File FileName="SelfTrainingProject.CasinoGames/UserProfile.cs" Line="7" Column="58" />
+      <File FileName="SelfTrainingProject.CasinoGames/TitleScreen.cs" Line="52" Column="1" />
+      <File FileName="SelfTrainingProject.CasinoGames/ProgramLogin.cs" Line="24" Column="60" />
+      <File FileName="SelfTrainingProject.CasinoGames/NewProfile.cs" Line="28" Column="10" />
+      <File FileName="SelfTrainingProject.CasinoGames/ExampleProfile.cs" Line="4" Column="103" />
+      <File FileName="SelfTrainingProject.CasinoGames/Cards.cs" Line="8" Column="6" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.SelfTrainingProject.CasinoGames PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../SelfTrainingProject.DotNetShop/SelfTrainingProject.DotNetShop/Catalogue.cs" line="6" offsetX="294" offsetY="63" expression="SelfTrainingProject.DotNetShop.Catalogue.item" liveUpdate="False" />
+    <Watch file="../../../../SelfTrainingProject.DotNetShop/SelfTrainingProject.DotNetShop/Catalogue.cs" line="43" offsetX="589" offsetY="630" expression="CatalogueOptionLoop" liveUpdate="False" />
+    <Watch file="../../../SelfTrainingProject.CasinoGames/Cards.cs" line="37" offsetX="492" offsetY="659" expression="randomNumber" liveUpdate="True" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MultiItemStartupConfigurations />
+</Properties>
