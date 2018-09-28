@@ -1,0 +1,8 @@
+<ListOfTaskListEntry>
+  <TaskListEntry file="" description="check VeiwDealersCards(); method - not displaying dealers cards" completed="True" />
+  <TaskListEntry file="" description="add input validation on all user inputs to stop program throwing an exception." completed="True" />
+  <TaskListEntry file="" description="Add secure login process" completed="True" />
+  <TaskListEntry file="" description="Add TitleScreen.cs" completed="True" />
+  <TaskListEntry file="" description="Add function for splitting bet when player is dealt with any pair (on initial deal)." />
+  <TaskListEntry file="" description="change font colours corresponding to function etc." completed="True" />
+</ListOfTaskListEntry>
